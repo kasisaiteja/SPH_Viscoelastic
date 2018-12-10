@@ -1,0 +1,19 @@
+﻿  color.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(3515): warning C4005: 'MOD_ALT': macro redefinition
+  c:\users\kasi sai teja\source\sph_111987438\sph_111987438\misc.h(43): note: see previous definition of 'MOD_ALT'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(3517): warning C4005: 'MOD_SHIFT': macro redefinition
+  c:\users\kasi sai teja\source\sph_111987438\sph_111987438\misc.h(41): note: see previous definition of 'MOD_SHIFT'
+c:\users\kasi sai teja\source\sph_111987438\sph_111987438\color.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kasi sai teja\source\sph_111987438\sph_111987438\color.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kasi sai teja\source\sph_111987438\sph_111987438\color.cpp(49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kasi sai teja\source\sph_111987438\sph_111987438\color.cpp(50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Particle.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(3515): warning C4005: 'MOD_ALT': macro redefinition
+  c:\users\kasi sai teja\source\sph_111987438\sph_111987438\misc.h(43): note: see previous definition of 'MOD_ALT'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(3517): warning C4005: 'MOD_SHIFT': macro redefinition
+  c:\users\kasi sai teja\source\sph_111987438\sph_111987438\misc.h(41): note: see previous definition of 'MOD_SHIFT'
+  sphsystem.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(3515): warning C4005: 'MOD_ALT': macro redefinition
+  c:\users\kasi sai teja\source\sph_111987438\sph_111987438\misc.h(43): note: see previous definition of 'MOD_ALT'
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(3517): warning C4005: 'MOD_SHIFT': macro redefinition
+  c:\users\kasi sai teja\source\sph_111987438\sph_111987438\misc.h(41): note: see previous definition of 'MOD_SHIFT'
