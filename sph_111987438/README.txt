@@ -21,12 +21,15 @@ ________________________________________________________________________________
 
 In SPH Fluid Simulation 
 
-1. I rendered the fluid particles using OpenGL.
-2. I implemented a 2D fluid simulation at first.
-3. Then I immplemented into a 3D fluid simulation as well.
-4. I added camera features.
-5. I worked on multiple fluids to observe the densities and other physical properties.
-6. Future work would inlcude using of Matching Cube algorithm to create the surface of the fluid .
+1. Rendered the fluid particles using OpenGL.
+2. Implemented a 2D fluid simulation at first.
+3. Implemented double-density relaxation extending the SPH paradigm.
+4. Implemented surfacae tension properties and collisions.
+5. Implemented elasticity, plasticity, viscoelasticity applications on the particles.
+6. Integrated fluid simulation into a 3D box simulation.
+4. Added camera-view feature.
+5. Worked on multiple fluids to observe the densities and other physical properties.
+6. Future work would inlcude using of Matching Cube algorithm for better rendering.
 
 _______________________________________________________________________________________________________________
 
