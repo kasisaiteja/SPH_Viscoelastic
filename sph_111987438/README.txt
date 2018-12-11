@@ -17,6 +17,12 @@ Project file : sph_111987438
 sph_main.cpp is the main file.
 sphsystem.cpp has all infomration and controls of the SPH system.
 
+Librarries required:
+
+OpenGL
+Glut
+Glew
+
 _______________________________________________________________________________________________________________
 
 In SPH Fluid Simulation 
